@@ -158,9 +158,9 @@ The model was trained using Scikit-Learn and evaluated using:
 
 | Metric | Score |
 |----------|----------|
-| R² Score | Add Your Score |
-| MAE | Add Your Score |
-| RMSE | Add Your Score |
+| R² Score | 0.9073 |
+| MAE | 793.9690 |
+| RMSE | 1193.4018 |
 
 ---
 
