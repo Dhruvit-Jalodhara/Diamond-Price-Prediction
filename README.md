@@ -4,7 +4,7 @@ A Machine Learning web application that predicts the market price of a diamond b
 
 ## 🚀 Live Demo
 
-https://your-app-name.streamlit.app
+https://diamond-price-prediction-iuekxzaiozdmzxmkl5kfqh.streamlit.app
 
 ---
 
@@ -231,7 +231,7 @@ streamlit run app.py
 
 AI Engineering Student | Machine Learning Enthusiast
 
-GitHub: https://github.com/your-github-username
+GitHub: https://github.com/Dhruvit-Jalodhara/Diamond-Price-Prediction
 
 LinkedIn: https://www.linkedin.com/in/dhruvit-jalodhara
 
